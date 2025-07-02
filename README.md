@@ -36,7 +36,12 @@ This isn't a toy—it's crafted for professionals who understand that effective 
 - Standard Python 3.x Libraries  
 
 ---
+## ⚠️ DISCLAIMER ⚠️  
 
+**This tool is intended for _authorized security assessments_ and _educational research_ only.**  
+**❗ Unauthorized scanning or targeting of systems you do not own or lack explicit permission to assess is strictly prohibited.**  
+**💀 The author assumes _no responsibility_ for misuse, damages, or illegal activity stemming from this project.**
+---
 ## ⚙️ Installation  
 
 ### 1. Clone the Repository  
