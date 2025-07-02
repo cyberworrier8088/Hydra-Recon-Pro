@@ -45,4 +45,4 @@ This isn't a toy—it's crafted for professionals who understand that effective 
 git clone https://github.com/cyberworrier8088/Hydra-Recon-Pro.git  
 cd Hydra-Recon-Pro
 pip install -r requirements.txt
-python3 hydra_recon_pro.py
+python3 HydraReconPro.py
