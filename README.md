@@ -42,7 +42,6 @@ This isn't a toy—it's crafted for professionals who understand that effective 
 **❗ Unauthorized scanning or targeting of systems you do not own or lack explicit permission to assess is strictly prohibited.**  
 **💀 The author assumes _no responsibility_ for misuse, damages, or illegal activity stemming from this project.**
 ---
-## 🤗 Creater: Muhammad Nabhan(Cyberworrier), GPT
 ## ⚙️ Installation  
 
 ### 1. Clone the Repository  
