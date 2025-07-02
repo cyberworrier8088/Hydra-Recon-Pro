@@ -1,4 +1,4 @@
-# 🐍 Hydra Recon Pro: Elite APT Edition  
+# 🐍 Hydra Recon Pro: V1
 
 **Advanced Web Reconnaissance & OSINT Automation Framework for Red Teams, Bug Bounty Hunters, and Offensive Security Operators**  
 
