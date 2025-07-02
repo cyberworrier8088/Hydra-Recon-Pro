@@ -1,47 +1,46 @@
-# 🐍 Hydra Recon Pro: Elite APT Edition
+# 🐍 Hydra Recon Pro: Elite APT Edition  
 
-**Advanced Web Reconnaissance & OSINT Automation Framework for Red Teams, Bug Bounty Hunters, and Offensive Security Operators**
-
----
-
-## ⚔️ Overview
-
-**Hydra Recon Pro** is a modular, Python-powered web reconnaissance and OSINT automation tool built for **real-world offensive security operations**. Designed with a red teamer's mindset, it streamlines passive and active information gathering, providing structured, actionable intelligence for pre-exploitation phases.
-
-Whether you're an **APT operator**, **bug bounty hunter**, **penetration tester**, or simply a curious hacker, Hydra Recon Pro equips you with the essential capabilities to map your target's online footprint with speed and precision.
+**Advanced Web Reconnaissance & OSINT Automation Framework for Red Teams, Bug Bounty Hunters, and Offensive Security Operators**  
 
 ---
 
-## 🛠️ Key Features
+## ⚔️ Overview  
 
-✔ Passive Reconnaissance: WHOIS, Subdomains, Reverse IP Lookups  
-✔ Automated robots.txt & sitemap.xml Extraction  
-✔ Directory & File Bruteforce with Parallel Support  
-✔ Hidden Parameter Discovery & Fuzzing with Attack Payloads  
-✔ Deep Recursive Web Crawling with Link Mapping  
-✔ Tech Stack Fingerprinting: CMS, Servers, Frameworks Detection  
-✔ Sensitive Data Harvesting: Emails, Phone Numbers, Secrets  
-✔ Proxy Support for Stealth Reconnaissance  
-✔ Clean JSON Report Generation for Documentation & Analysis  
+**Hydra Recon Pro** is a modular, Python-powered web reconnaissance and OSINT automation suite designed for **real-world offensive security operations**. Whether you're part of an APT group, a red team, a bug bounty hunter, or a curious hacker, this tool equips you to map, fingerprint, and analyze your target's online footprint with speed, stealth, and precision.  
+
+This isn't a toy—it's crafted for professionals who understand that effective reconnaissance forms the foundation of successful exploitation.  
 
 ---
 
-## 🧩 Technical Stack
+## 🛠️ Key Features  
 
-Built using:
-
-- `requests` — HTTP interactions  
-- `BeautifulSoup` — HTML parsing  
-- `tldextract` — Domain extraction  
-- `colorama` — Terminal output coloring  
-- Python 3.x  
+✔ **Passive Reconnaissance:** WHOIS, Subdomains, Reverse IP Lookups  
+✔ **Automated Extraction:** `robots.txt` & `sitemap.xml` Retrieval  
+✔ **Directory & File Bruteforce:** Parallel or Sequential (user-selectable)  
+✔ **Hidden Parameter Discovery:** Input Enumeration & Fuzzing with Payloads  
+✔ **Deep Recursive Crawler:** Link Mapping, Asset Discovery, Sensitive Data Harvesting  
+✔ **Technology Fingerprinting:** CMS, Servers, Frameworks Detection  
+✔ **Sensitive Data Harvesting:** Emails, Phone Numbers, Secrets Detection  
+✔ **Stealth Recon:** Proxy Support for Anonymized Scanning  
+✔ **Clean JSON Report Generation:** Structured, actionable output for documentation or chaining attacks  
 
 ---
 
-## ⚙️ Installation
+## 🧩 Technical Stack  
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/cyberworrier8088/Hydra-Recon-Pro.git
-   cd hydra-recon-pro
-   
+- `requests` — HTTP Interactions  
+- `BeautifulSoup` — HTML Parsing  
+- `tldextract` — Domain Intelligence  
+- `colorama` — Terminal Output Coloring  
+- `concurrent.futures` — Parallel Directory Bruteforcing  
+- Standard Python 3.x Libraries  
+
+---
+
+## ⚙️ Installation  
+
+### 1. Clone the Repository  
+
+```bash  
+git clone https://github.com/cyberworrier8088/Hydra-Recon-Pro.git  
+cd Hydra-Recon-Pro
